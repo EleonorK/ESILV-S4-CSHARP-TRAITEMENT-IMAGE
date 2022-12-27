@@ -1,0 +1,7 @@
+C:\Users\kckel\Documents\A2 STI2D\S4\info\TDtraitementImage\bin\Debug\TDtraitementImage.exe.config
+C:\Users\kckel\Documents\A2 STI2D\S4\info\TDtraitementImage\bin\Debug\TDtraitementImage.exe
+C:\Users\kckel\Documents\A2 STI2D\S4\info\TDtraitementImage\bin\Debug\TDtraitementImage.pdb
+C:\Users\kckel\Documents\A2 STI2D\S4\info\TDtraitementImage\obj\Debug\TDtraitementImage.csprojAssemblyReference.cache
+C:\Users\kckel\Documents\A2 STI2D\S4\info\TDtraitementImage\obj\Debug\TDtraitementImage.csproj.CoreCompileInputs.cache
+C:\Users\kckel\Documents\A2 STI2D\S4\info\TDtraitementImage\obj\Debug\TDtraitementImage.exe
+C:\Users\kckel\Documents\A2 STI2D\S4\info\TDtraitementImage\obj\Debug\TDtraitementImage.pdb
